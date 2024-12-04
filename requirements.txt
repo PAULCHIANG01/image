@@ -1,0 +1,11 @@
+torch==2.3.0+cu118
+torchvision==0.18.0+cu118
+diffusers==0.28.0
+torchmetrics==1.4.0
+opencv-python==4.8.0.74
+scipy==1.11.4
+matplotlib==3.7.1
+moviepy==1.0.3
+cupy-cuda12x==12.2.0
+pyflow
+
